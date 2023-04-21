@@ -20,9 +20,8 @@ p {
   text-align: center;
   color: black;
 }
-ul,
-li {
-  text-decoration: none;
-  display: inline;
-
+footer{
+ text-align: center;
 }
+ footer a{  margin: 0 10px;
+    color: #6c7f67;}
