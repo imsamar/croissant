@@ -1,0 +1,28 @@
+body {
+  background: #fcefba;
+  color: #930263;
+}
+h1 {
+  text-align: center;
+
+}
+a {
+  text-align: center;
+    color: 930263;
+}
+img {
+  border-radius: 20px;
+  border: 1px solid white;
+  display: block;
+  margin: 0 auto;
+}
+p {
+  text-align: center;
+  color: black;
+}
+ul,
+li {
+  text-decoration: none;
+  display: inline;
+
+}
